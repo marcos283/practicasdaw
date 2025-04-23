@@ -3,18 +3,18 @@
   "name": "Prácticas en Conectados",
   "icons": [
     {
-      "src": "favicon.jpg",
+      "src": "favicon.png",
       "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/jpg"
+      "type": "image/png"
     },
     {
-      "src": "favicon.jpg",
-      "type": "image/jpg",
+      "src": "favicon.png",
+      "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "favicon.jpg",
-      "type": "image/jpg",
+      "src": "favicon.png",
+      "type": "image/png",
       "sizes": "512x512"
     }
   ],
