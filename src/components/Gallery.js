@@ -5,7 +5,7 @@ const projects = [
   {
     id: 1,
     title: "Generador de posts para linkedin",
-    url: "https://postink-beryl.vercel.app/",
+    url: "https://postink-sigma.vercel.app/",
     image: "/screenshots/post_linkedin.jpg",
     description: "Herramienta para crear posts profesionales de LinkedIn"
   },

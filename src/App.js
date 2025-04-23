@@ -16,7 +16,7 @@ function App() {
           <Gallery />
         </main>
         <footer>
-          <p>&copy; 2024 Prácticas con Alberto</p>
+          <p>&copy; 2024 Prácticas con Alberto Bernabéu</p>
         </footer>
       </Container>
     </ThemeProvider>
