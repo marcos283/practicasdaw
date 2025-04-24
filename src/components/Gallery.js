@@ -18,7 +18,7 @@ const projects = [
     url: "https://rumarkemon.netlify.app/",
     image: "/screenshots/pokemon.jpg",
     description: "Explorador interactivo del mundo Pokémon",
-    techDetails: "Explorador interactivo del mundo Pokémon./n Construido con Html5, Css, Javascript y PokeAPI. Desplegado manual en Netlify. Herramienta Cline con IDE VsCode."
+    techDetails: "Explorador interactivo del mundo Pokémon. Construido con Html5, Css, Javascript y PokeAPI. Desplegado manual en Netlify. Herramienta Cline con IDE VsCode."
   },
   {
     id: 3,
